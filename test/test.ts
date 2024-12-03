@@ -1,1 +1,3 @@
-const a = 'a'
+export const a = 'a'
+
+const test = 'test'
