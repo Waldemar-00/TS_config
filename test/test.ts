@@ -2,3 +2,16 @@
 
 const test = 'test'
 const watch = 'tsc --watch'
+
+interface Something
+{
+  some: string,
+  amount: number,
+  fn: () => void
+}
+
+function fn (str: string): string
+{
+  return str
+}
+console.log(fn('Declaration: true'))
