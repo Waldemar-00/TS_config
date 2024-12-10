@@ -1,0 +1,6 @@
+"use strict";
+//! no export default
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.ourExport = void 0;
+exports.ourExport = 888;
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiaW50ZXJmYWNlcy5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uL3NyYy90ZXN0L2ludGVyZmFjZXMudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IjtBQUFBLHFCQUFxQjs7O0FBU1IsUUFBQSxTQUFTLEdBQUcsR0FBRyxDQUFBIiwic291cmNlc0NvbnRlbnQiOlsiLy8hIG5vIGV4cG9ydCBkZWZhdWx0XHJcblxyXG5leHBvcnQgaW50ZXJmYWNlIFNvbWV0aGluZ1xyXG57XHJcbiAgc29tZTogc3RyaW5nLFxyXG4gIGFtb3VudDogbnVtYmVyLFxyXG4gIGZuOiAoKSA9PiB2b2lkXHJcbn1cclxuXHJcbmV4cG9ydCBjb25zdCBvdXJFeHBvcnQgPSA4ODgiXX0=
